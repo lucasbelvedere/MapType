@@ -1,4 +1,4 @@
-# C++ Type Map Using Binary Tree Structure
+# C++ Map Type Using Binary Tree Structure
 
 ## Created by Lucas Belvedere
 
