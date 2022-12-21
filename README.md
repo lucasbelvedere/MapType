@@ -1,6 +1,3 @@
-# C++ Map Type Using Binary Tree Structure
+# C++ Map Type That Uses Binary Search Tree Structure
 
-## Created by Lucas Belvedere
-
-### In this repository, you will find a map type created on C++, using a binary tree structure.
-### Details about the structure and how it was coded will be uploaded here in a while.
+## Map type created in C++, that uses a binary search tree to implement its insert and search properties.
